@@ -17,8 +17,8 @@ if database == 'basa':
     fit_type = 'fit_140_0.01'
 
 if database == 'GG':
-    results_dir = f'results/{database}'
-    dirdatain = f'GAM_species/{database}'
+    results_dir = f'output/results/{database}'
+    dirdatain = f'output/processed_data/GAM_species/{database}'
     fit_type = 'fit_300_0.01'
 
 
