@@ -1,0 +1,9 @@
+.conda/
+graphenv/
+nohup.out
+results_basa/**
+results_GG/**
+**/bootstrap_tables/
+**/bootstrap_tables_old/
+code_feb_26/results/GG/nullmodel/
+code_feb_26/results/basa/nullmodel/
